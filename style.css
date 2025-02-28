@@ -15,7 +15,7 @@ body {
     height: 300px;
     display: block;
     margin: 20px auto;
-    
+
 }
 
 main {
@@ -96,7 +96,7 @@ section {
     font-weight: 400;
 }
 
-.currency-value {
+.currency-value, .currency-value-to-convert {
     color: #555555;
     font-weight: 700;
     font-size: 28px;
